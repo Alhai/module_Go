@@ -1,0 +1,16 @@
+# Binaries
+urlwatch
+*.exe
+*.out
+
+# Build artifacts
+/dist/
+
+# Environment
+.env
+*.env
+
+# Editor
+.idea/
+.vscode/
+*.swp

@@ -1,5 +1,5 @@
-# Binaries
-urlwatch
+# Binaries (only the compiled binary at module root, not the cmd/ directory)
+/urlwatch
 *.exe
 *.out
 
